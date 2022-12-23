@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head> </head>
+<body>
+<ul>
+  <li>  <a href="#    x    "> insert title for this link     </li>
+  <li   <a href="#    y    "> insert title for this link      </li>
+  
+</ul>
+<br> line breaks
+<br>
+<br>
+<br>
+
+<p> <a name= "x"> website description </a> </p>
+<br>
+<br>
+<p> <a name= "y"> second website </a> </p>
+</body>
+
+</html>

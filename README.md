@@ -1,16 +1,3 @@
-# HTML-notes 
-<!doctype html>
-<html> 
-<head> </head>
-<body>
-<p> CLICK HERE FOR ENGLISH TRANSLATION
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ </a>
-<p/>
-</body>
-</html>
-
-
-
 
 主要是储存一些HTML笔记和其他相关的project 
 

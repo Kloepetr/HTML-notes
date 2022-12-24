@@ -2,8 +2,13 @@
 <html>
 <head. </head>
 <body>
-<form action="" method="">       (declares html form)<input type="text" name ="">  (one line text box) !!!!!!!!!!! this is like python's input attribute 
+<form action="" method="">       (declares html form)
+<input type="text" name ="">  (one line text box) !!!!!!!!!!! this is like python's input attribute 
 <input element goes here> 
 </form>
 </body>
 </html>
+
+
+size attribute : (width), added after the name attribute 
+size = "x" >

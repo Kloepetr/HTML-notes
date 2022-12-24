@@ -3,7 +3,7 @@
 <head> </head>
 <body>
 <h1> pepe pictures </h1>
-img src="Image.picture type"></p>
+img src="Image.picture type" width="200"(pixels) height="200"></p>
 
 </body>
 

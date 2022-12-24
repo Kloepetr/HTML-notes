@@ -3,6 +3,6 @@
 <head> </head>
 <body>
 <h1> image description </h1>
-<p> <img src="file source"> </p>
+<img src="file name .image type" />
 </body>
 </html>

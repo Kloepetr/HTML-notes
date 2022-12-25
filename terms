@@ -6,4 +6,4 @@ HTML tag examples:      <button>, <img>, <p>,
 container tags:         surrounds content for the elements
 empty tags:             elements that are defined with only one tag
 empty tags examples:    <img>
-
+nested element:         putting element inside another element

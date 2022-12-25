@@ -9,5 +9,5 @@
 
 ![image](https://user-images.githubusercontent.com/115853526/209399379-5ed54c4b-3cde-4e14-bb1f-0a3b0ea052a0.png)
 
-![image](https://user-images.githubusercontent.com/115853526/209399460-11ac97e5-67d1-4f26-9a68-32f6e5a0a38e.png)
+
 

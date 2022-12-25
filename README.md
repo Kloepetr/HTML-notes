@@ -18,7 +18,7 @@ CLICK HERE FOR SHORTCUTS AND CHEAT SHEET </a>
 <body> 
 <h3> FUTURE HTML PROJECTS <h3>
 <a href="https://github.com/Kloepetr/HTML-notes/tree/main/project"a>
-  project ideas </a>
+CLICK HERE FOR PROJECTS </a>
 </body>
 </html>   
 

@@ -8,7 +8,7 @@
 <br>
 current goal is to finish the basis of html and css by June 2022 </p>
 <a href="https://github.com/Kloepetr/HTML-notes/tree/main/fundamentals." a>
-- CHEAT SHEET </a> 
+- LESSONS </a> 
 <br>
 <br>
 <a href="https://github.com/Kloepetr/HTML-notes/tree/main/project" a>

@@ -4,25 +4,18 @@
 </head>           
 <body>          
 <h1> TABLE OF CONTENTS </h1>
-<p> this is a source created to help beginners with html! current goal is to finish the basis of html and css by June 2022 </p>
-<h2> FUNDAMENTALS </h2>
+<p> this is a source created to help beginners with html! 
+<br>
+current goal is to finish the basis of html and css by June 2022 </p>
 <a href="https://github.com/Kloepetr/HTML-notes/tree/main/fundamentals." a>
-CLICK HERE FOR SHORTCUTS AND CHEAT SHEET </a> 
+- CHEAT SHEET </a> 
+<br>
+<br>
+<a href="https://github.com/Kloepetr/HTML-notes/tree/main/project" a>
+- PROJECTS </a>
+<br>
+<br>
+<a href="https://github.com/Kloepetr/HTML-notes/blob/main/terms" a>
+- WORD BANK </a>
 </body>
-</html>
-
-![image](https://user-images.githubusercontent.com/115853526/209459634-5e80a5da-2ade-41ac-bf57-7409fa04d6b0.png)
-<html>            
-<head>            
-</head>           
-<body> 
-<h3> FUTURE HTML PROJECTS <h3>
-<a href="https://github.com/Kloepetr/HTML-notes/tree/main/project"a>
-CLICK HERE FOR PROJECTS </a>
-</body>
-</html>   
-
-
-
-
-
+</html>  

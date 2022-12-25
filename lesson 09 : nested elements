@@ -1,7 +1,0 @@
-nested element definition : putting element inside another element
-<html> is a root element
-<body> 
-
-<p> </p> is a child element (usually inside the body tag)
-
-</body> is a parent element

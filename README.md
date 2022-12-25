@@ -1,12 +1,24 @@
+![image](https://user-images.githubusercontent.com/115853526/209459578-b7119a01-4341-4f02-8789-ca4d9983f36e.png)
 <html>            
 <head>            
 </head>           
 <body>          
-<h1> Table of contents </h1>
-<p> this is a source created to help store html notes for beginners </p>
-<h2> fundamentals </h2>
+<h1> TABLE OF CONTENTS </h1>
+<p> this is a source created to help beginners with html! current goal is to finish the basis of html and css by June 2022 </p>
+<h2> Fundamentals </h2>
 <a href="https://github.com/Kloepetr/HTML-notes/tree/main/fundamentals." a>
 basic attributes </a> 
+</body>
+</html>
+
+![image](https://user-images.githubusercontent.com/115853526/209459634-5e80a5da-2ade-41ac-bf57-7409fa04d6b0.png)
+<html>            
+<head>            
+</head>           
+<body> 
+<h3> Future Html Projects <h3>
+<a href="https://github.com/Kloepetr/HTML-notes/tree/main/project"a>
+  project ideas </a>
 </body>
 </html>   
 

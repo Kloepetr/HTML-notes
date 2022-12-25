@@ -5,9 +5,9 @@
 <body>          
 <h1> TABLE OF CONTENTS </h1>
 <p> this is a source created to help beginners with html! current goal is to finish the basis of html and css by June 2022 </p>
-<h2> Fundamentals </h2>
+<h2> FUNDAMENTALS </h2>
 <a href="https://github.com/Kloepetr/HTML-notes/tree/main/fundamentals." a>
-basic attributes </a> 
+CLICK HERE FOR SHORTCUTS AND CHEAT SHEET </a> 
 </body>
 </html>
 
@@ -16,7 +16,7 @@ basic attributes </a>
 <head>            
 </head>           
 <body> 
-<h3> Future Html Projects <h3>
+<h3> FUTURE HTML PROJECTS <h3>
 <a href="https://github.com/Kloepetr/HTML-notes/tree/main/project"a>
   project ideas </a>
 </body>

@@ -1,9 +1,0 @@
-HTML :                  controls the structure of a webpage
-CSS  :                  controls the presentation of a webpage
-Javascript:             controls the behavior of a webpage
-HTML tags:              add elements to webpage
-HTML tag examples:      <button>, <img>, <p>,
-container tags:         surrounds content for the elements
-empty tags:             elements that are defined with only one tag
-empty tags examples:    <img>
-nested element:         putting element inside another element

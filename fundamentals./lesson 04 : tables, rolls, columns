@@ -1,0 +1,17 @@
+#lesson 4
+creating tables with rolls and columns 
+
+<table>
+<tr>
+    <th> stuff </th>
+    <th> stuff </th>
+    <th> stuff </th>
+</tr>
+
+<tr>
+    <td> stuff </td>
+    <td> stuff </td>
+    <td> stuff </td>
+</tr>
+
+</table>

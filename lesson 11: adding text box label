@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+<head></head>
+<body>
+<form action="" method="">
+<label for="x"> First name: </label>
+<input type = "text" id="x" name=""> </br> </br>
+</form>
+</body>
+</html>

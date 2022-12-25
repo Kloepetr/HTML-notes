@@ -1,0 +1,11 @@
+text area attribute 
+
+
+<!doctype html>   
+<html>            
+<head>  </head>           
+<body>    
+<form action="" method="">
+<textarea rows="x" cols="y"</textarea></br>
+</body>
+</html>   

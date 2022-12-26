@@ -7,3 +7,5 @@ container tags:         surrounds content for the elements
 empty tags:             elements that are defined with only one tag
 empty tags examples:    <img>
 nested element:         putting element inside another element
+radio element:         button that allows user to select one option
+checkbox element:      allows user to select multiple options

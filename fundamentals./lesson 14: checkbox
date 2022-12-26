@@ -10,3 +10,5 @@ insert random question or text <br>
 </form>
 
 
+how to automatically select an existing option? 
+checked= "checked">         put element inbetween name="" and optionX <br>

@@ -1,1 +1,1 @@
-this folder is specifically for projects and extra testing websites !
+this folder is specifically for testing my codes !

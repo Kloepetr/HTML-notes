@@ -1,0 +1,12 @@
+user will select one radio button choice out of multiple options.
+name has to be uniformed ( the same ) with all radio buttons, or else user will be able to select multiple radio buttons
+type can be button, or text
+
+<form action="" method="">
+
+yes:
+<input type="radio" name="yesorno" value=""> </br>
+no:
+<input type="radio" name="yesorno" value="">
+
+</form>

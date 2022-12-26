@@ -1,0 +1,14 @@
+number tag: 
+-only allows user to input numbers
+-contains scroll bar to adjust value
+-specify minimum and maximum attribute to limit range
+
+
+
+
+number tag:
+<form action="" method="">
+<input type="number">
+
+minimum and maximum attribute (added after the         <input type"number"       element)
+min="x" max="y">

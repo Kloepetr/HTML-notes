@@ -1,0 +1,7 @@
+-need mp3 file (standard format), in same folder as index.html file
+-controls attribute: place control on webpage, play mp3
+-standard formats for web browser: .mp3, .wav, .ogg
+
+<audio controls="enter random name">
+  <source src="mp3name.audiotype(usually mp3)"/>
+</audio>

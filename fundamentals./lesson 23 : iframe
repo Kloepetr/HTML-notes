@@ -1,6 +1,7 @@
 -iframe element is html document in webpage
 -insert content in external source
 -dont need to refresh or load new webpage to switch content
+-target and id need to match
 
 <iframe frameborder="0(off) 1 (on)" width="x" height="y"
   src="source attribute, specify content.html" name="specify name " id="ouriframe">

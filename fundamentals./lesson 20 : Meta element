@@ -1,0 +1,29 @@
+- always put inside head element
+-not visible to web user
+-tell search engine about webpage
+-use attribute to provide info
+
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+
+165 character description:
+<meta name="description"content="x"/>
+
+keyword search about webpage:
+<meta name="keywords"content="x, y, z"/>
+
+author search
+<meta http-equiv="author"content="x" />
+
+language search
+<meta http-equiv="content-language" content="x"
+for example, english would be en-us
+
+</head>
+<body>
+<div>
+/div>
+</body>
+</html>

@@ -6,7 +6,7 @@
 <h1>THIS FOLDER IS FOR TESTING MY CODES</h1>
 <br>
 <h2> table of contents </h2>
-<a href="[https://github.com/Kloepetr/HTML-notes/tree/main/fundamentals.](https://github.com/Kloepetr/HTML-notes/blob/main/project/Balenciaga%20is%20overpriced)" a>
+<a href="https://github.com/Kloepetr/HTML-notes/blob/main/project/Balenciaga%20is%20overpriced" a>
 - BALENCIAGA IS OVERPRICED </a> 
 <br>
 <br>
@@ -14,7 +14,7 @@
 - ARE YOU SHORT SURVEY </a>
 <br>
 <br>
-<a href="[https://github.com/Kloepetr/HTML-notes/blob/main/terms](https://github.com/Kloepetr/HTML-notes/blob/main/project/Rickroll%20prank)" a>
+<a href="https://github.com/Kloepetr/HTML-notes/blob/main/project/Rickroll%20prank" a>
 - RICKROLL PRANK </a>
   
   

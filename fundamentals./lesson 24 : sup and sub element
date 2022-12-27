@@ -1,0 +1,8 @@
+sup = superscript, placed text above main body (like degree, or date)
+sub = subscript, placed text below main text (such as chemical notations)
+
+<sup> superscript:
+<p> august 23 <sup>rd</sup>. </p>
+
+<sub> subscript:
+<p> H <sub>2</sub>o </p>

@@ -1,0 +1,7 @@
+-adapt minimum and maximum element, introducing input type: date 
+
+<form>
+ enter paragraph: (this is the text that will be displayed before date/year drop down bar)
+    <input type="date" name="displayed text">
+    (Enter text for title of textbox) : <input type="number" name="displayed text" min="number" max="number"
+</form>

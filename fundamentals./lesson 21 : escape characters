@@ -1,0 +1,9 @@
+-browser only recognize one white spaces
+-escape characters is needed to make extra space and symbols.
+-basic spaces uses         " &nbsp; "
+-trademark (TM) uses       " &#8482; "
+-and (&) uses               " &amp; "
+-@ uses                    " &copy; "
+-< uses                    " &lt; "
+-> uses                    " &gt; "
+-? uses                    "&#63; "

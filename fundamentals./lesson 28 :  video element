@@ -1,8 +1,8 @@
--drag any element :draggale attribute
--set up value ="true"
+-mp4 files needed
+-save video in same folder as index.html
 
 
-<audio controls autoplay loop draggable="true">
-  <source src="mp3name.audiotype(usually mp3)"/>
-  <source src="audioname.audiotype(backup option .wav)" />
-</audio>
+<video width"x"(pixels) height="y" controls>
+   <source src="videoname.videotype"/>
+   <source src="backup video option"/>
+</video>

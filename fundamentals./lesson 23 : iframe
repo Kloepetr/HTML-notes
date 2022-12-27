@@ -3,10 +3,10 @@
 -dont need to refresh or load new webpage to switch content
 
 <iframe frameborder="0(off) 1 (on)" width="x" height="y"
-  src"source attribute, specify content" name="specify name " id="ouriframe">
+  src="source attribute, specify content.html" name="specify name " id="ouriframe">
 enter text (this will not be displaced)
 <iframe><br/>
 
 link to new webpage, no refresh, just switch screen
-<a href=" doc name " target="ouriframe"> switch to new 
+<a href=" doc name.html" target="ouriframe"> switch to new 
 document </a>

@@ -1,0 +1,24 @@
+-control attributes no need to put value in
+-play audio
+<audio controls>
+  <source src="x"/>
+</audio>
+
+-autoplay audio
+<audio controls autoplay>
+  <source src="x"/>
+</audio>
+  
+-autoloop audio
+<audio controls autoplay loop>
+</audio>
+
+
+
+
+-drag any element :draggale attribute
+-set up value ="true"
+<audio controls autoplay loop draggable="true">
+  <source src="mp3name.audiotype(usually mp3)"/>
+  <source src="audioname.audiotype(backup option .wav)" />
+</audio>

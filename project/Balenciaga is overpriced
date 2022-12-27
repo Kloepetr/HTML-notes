@@ -1,0 +1,13 @@
+<--!First, save an image under your github file in vscode, name it whatever, and then insert the imagename.image type after the quotation marks
+in <img> tag, now you can edit title and alt to texts you want it to display when user place mouse on the picture -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+</head>
+<body>
+    <img src="balenciaga.webp" title="this product is over priced" alt="oops pic didnt load ">
+    
+</body>
+</html>

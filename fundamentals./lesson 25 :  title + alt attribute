@@ -1,0 +1,8 @@
+ -placed inside content (body)
+ -title attribute is used to hide notes
+ -alt displays text
+ <body> 
+     <img src="imagename.imagetype" title="hidden note" alt=" text will display if image doesnt load">
+ </body>   
+ 
+ 

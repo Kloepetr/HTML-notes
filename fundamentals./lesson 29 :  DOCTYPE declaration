@@ -1,0 +1,5 @@
+-<!doctype html>
+-comes before <html> tag
+-very first thing in html files
+-DOCTYPE is an instruction to webpage about html version
+-legacy strings such as "HTML 4.01 strict" will still work, they tell browser what version html/ file type youre using

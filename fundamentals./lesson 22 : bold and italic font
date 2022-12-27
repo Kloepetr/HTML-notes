@@ -1,0 +1,16 @@
+-introduction to bold, strong, italic, and em element
+-bold and strong element both makes text bold visual style
+-strong element is used for text to speech, place emphasis on words 
+-italic and em element both visually make text italic 
+
+bold element makes bold texts <b></b>
+<p> This is a <b> text </b>. </p>
+
+strong element makes bold, strong texts <strong></strong>
+<p> This is a <strong> text </strong>. </p>
+
+italic element makes italic texts <i></i>
+<p> This is a <i> text </i>. </p>
+
+em element makes italic, emphasizing text <em></em>
+<p> This is a <em> text </em>. </p>

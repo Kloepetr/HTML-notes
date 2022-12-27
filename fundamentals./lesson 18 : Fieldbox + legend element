@@ -1,0 +1,20 @@
+- create a barrier and outline for your textboxs (fieldbox element)
+-legend element allows you to name your fieldbox
+
+
+<!DOCTYPE html>
+<html>
+<head> </head>
+<body>
+<form>
+   <fieldset>
+   <legend> Enter title: </legend>
+ enter paragraph:
+    <input type="date" name="displayed text">
+    Number of days: <input type="number" name="displayed text" min="number" max="number"
+<br> <br>
+ name: <input type="text">
+    </fieldset>
+</form>
+</body>
+</html>

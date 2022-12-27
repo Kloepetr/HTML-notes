@@ -1,0 +1,18 @@
+-set up drop down list, select one option, introducing select and option element
+-make sure displayed option is the same as element name, ex:   <option value="dog">dog</option>
+
+<!doctype html>
+<html>
+<head> </head>
+<body>
+<form action="" method="">
+<select>
+<option value="x">x </option>
+<option value="y">y </option>
+<option value="z">z </option>
+
+</select>
+</form>
+</body>
+</html>
+

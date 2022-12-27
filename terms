@@ -9,3 +9,5 @@ empty tags examples:    <img>
 nested element:         putting element inside another element
 radio element:         button that allows user to select one option
 checkbox element:      allows user to select multiple options
+fieldbox element:      create a barrier and outline for your textboxs
+legend element:        allows you to name your fieldbox

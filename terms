@@ -1,13 +1,53 @@
-HTML :                  controls the structure of a webpage
-CSS  :                  controls the presentation of a webpage
-Javascript:             controls the behavior of a webpage
-HTML tags:              add elements to webpage
-HTML tag examples:      <button>, <img>, <p>,
-container tags:         surrounds content for the elements
-empty tags:             elements that are defined with only one tag
-empty tags examples:    <img>
-nested element:         putting element inside another element
-radio element:         button that allows user to select one option
-checkbox element:      allows user to select multiple options
-fieldbox element:      create a barrier and outline for your textboxs
-legend element:        allows you to name your fieldbox
+HTML usage :                   controls the structure of a webpage
+HTML stands for:               Hyper Text Markup language
+Web standard owner:            The World Wide Web Consortium 
+HTML heading elements:         <h1>, <h2>, <h3>, <h4>, <h5>, <h6>
+CSS  usage :                   controls the presentation of a webpage
+Javascript usage :             controls the behavior of a webpage
+HTML tags:                     add elements to webpage
+HTML tag examples:             <button>, <img>, <p>,
+container tags:                surrounds content for the elements
+empty tags:                    elements that are defined with only one tag
+empty tags examples:           <img>
+nested element:                putting element inside another element
+radio element:                 button that allows user to select one option
+checkbox element:              allows user to select multiple options
+fieldbox element:              create a barrier and outline for your textboxs
+legend element:                allows you to name your fieldbox
+line break element:            <br>
+background color element:      <body style="background-color:ENTER COLOR;">  
+define important text:         <strong>
+define emphasized text:        <em>
+create hyperlink:              <a href="ENTER URL">URL TITLE</a>  
+end tag character:             /
+open link in new browser:      <a href="url" target="_blank">  
+table element:                 <table>, <tr>, <td>
+inline elements:               displayed without starting new line
+numbered list element:         <ol>
+bulleted list element:         <ul>
+checkbox element:              <input type="checkbox">  
+textbox element:               <input type="text">  
+down-down list element:        <select>
+text area element:             <textarea>
+insert image:                  <img src="imagename.imagetype" alt="displayedtitle">  
+background image element:      <body style="background-image:url(background.gif)">  
+<iframe> element:              used to display webpage within webpage
+comment:                       <!-- COMMENT -->
+block elements:                displayed when starting a new line
+title element:                 <title>
+attribute alt text of image:   alt
+HTML5 doctype form:            <!DOCTYPE html>  
+footer element:                <footer>
+video file element:            <video>
+audio file element:            <audio>
+contenteditable usage:         specify if an element's content should be able to be edited 
+Event attribute examples:      onblur, onfocus
+SVG graphics format:           XML
+<canvas> element usage:        draw graphics
+required attribute:            used to specify input fields that must be filled 
+range type:                    input type used to define slider control
+<meter> element usage:         used to display scalar measurement within a range
+<nav> element usage:           used to define navigation links
+<aside> element usage:         content aside from page contents
+header element:                <header>
+

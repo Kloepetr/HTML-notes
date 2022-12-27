@@ -1,13 +1,8 @@
 -iframe element is html document in webpage
 -insert content in external source
 -dont need to refresh or load new webpage to switch content
--target and name need to match
 
 <iframe frameborder="0(off) 1 (on)" width="x" height="y"
   src="source attribute, specify content.html" name="specify name " id="ouriframe">
 enter text (this will not be displaced)
 <iframe><br/>
-
-link to new webpage, no refresh, just switch screen
-<a href=" doc name.html" target="ouriframe"> switch to new 
-document </a>

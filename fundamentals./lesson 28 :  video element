@@ -1,6 +1,6 @@
 -mp4 files needed
 -save video in same folder as index.html
-
+-standard video forms include: .mp4, webm, .ogg
 
 <video width"x"(pixels) height="y" controls>
    <source src="videoname.videotype"/>

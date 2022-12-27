@@ -1,0 +1,4 @@
+attribute gives extra information and functionbility about elements, attributes are always in opening
+tag in elements, 
+
+form:   <attribute name="assigned value" >
